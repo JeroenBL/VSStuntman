@@ -1,6 +1,6 @@
 # VSStuntman
 
-![logo](https://raw.githubusercontent.com/Jeroenbl/Stuntman/main/logo.png)
+![logo](https://raw.githubusercontent.com/JeroenBl/VSStuntman/main/logo.png)
 
 ## Because every app needs a stuntman!
 
@@ -12,7 +12,7 @@ The PowerShell snippet is formatted as a HelloID person object. This makes it a 
 
 - Importing stuntman created with the PSStuntman PowerShell module.
 
-![import](https://raw.githubusercontent.com/jeroenbl/Stuntman/main/assets/importStuntman.gif)
+![import](https://raw.githubusercontent.com/JeroenBl/VSStuntman/main/assets/installStuntman.gif)
 
 ## Requirements
 
@@ -28,7 +28,7 @@ This extension contributes the following settings:
 
 * `Stuntman.DatabaseFileLocation`: The location to the database (sqlite) on disk.
 
-![Configure](https://raw.githubusercontent.com/jeroenbl/Stuntman/main/assets/stuntmanConfiguration.png)
+![Configure](https://raw.githubusercontent.com/JeroenBl/VSStuntman/main/assets/stuntmanConfiguration.png)
 
 ## Known Issues
 
