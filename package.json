@@ -2,7 +2,7 @@
 	"name": "stuntman",
 	"displayName": "Stuntman",
 	"description": "Import stuntman from the PSStuntman PowerShell module",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"icon": "logo.png",
 	"publisher": "Jeroen",
 	"engines": {
