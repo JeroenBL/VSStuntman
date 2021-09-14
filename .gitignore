@@ -7,3 +7,4 @@ out/test/runTest.js.map
 out/test/runTest.js
 out/extension.js.map
 out/extension.js
+.vscode/settings.json
