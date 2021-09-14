@@ -1,0 +1,9 @@
+node_modules
+out/test/suite/index.js.map
+out/test/suite/index.js
+out/test/suite/extension.test.js.map
+out/test/suite/extension.test.js
+out/test/runTest.js.map
+out/test/runTest.js
+out/extension.js.map
+out/extension.js

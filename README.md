@@ -4,7 +4,7 @@
 
 ## Because every app needs a stuntman!
 
-Stuntman is an add-on for the PSStuntman PowerShell module. It allows you to import the saved stuntman from the PSStuntman database, directly into VSCode as a PowerShell code snippet. 
+Stuntman is an add-on for the PSStuntman PowerShell module. It allows you to import the saved stuntman from the PSStuntman database, directly into VSCode as a PowerShell code snippet.
 
 The PowerShell snippet is formatted as a HelloID person object. This makes it a little easier to develop HelloID connectors within VSCode.
 
@@ -27,7 +27,7 @@ The PowerShell snippet is formatted as a HelloID person object. This makes it a 
 
 - Windows PowerShell 5.1
 - .NET Framework 4.8
-- PSStuntman PowerShell module https://github.com/JeroenBL/PSStuntman
+- PSStuntman PowerShell module https://github.com/JeroenBL/Stuntman
 
 ## Extension Settings
 
@@ -41,8 +41,11 @@ This extension contributes the following settings:
 
 ## Known Issues
 
-
 ## Release Notes
+
+### 1.0.0
+
+- Updated code to accomodate preview version of PSStuntman module
 
 ### 0.0.1
 
